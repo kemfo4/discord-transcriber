@@ -5,7 +5,9 @@
 You need python3 (3.8<=) and git installed.
 Run cmd and inside it type:
 > `git clone https://github.com/kemfo4/discord-transcriber.git`
+
 > `cd discord-transcriber`
+
 > `python3 -m venv venv`
 
 After that activate venv by running
