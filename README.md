@@ -2,10 +2,11 @@
 ## this is a transcriber for your own server.
 
 ### To create this bot for your server
-You need python3 (3.8<=).
-Then you need to create a folder for the bot. 
-Inside it run cmd and type:
-> python3 -m venv ven
+You need python3 (3.8<=) and git installed.
+Run cmd and inside it type:
+> git clone https://github.com/kemfo4/discord-transcriber.git
+> cd discord-transcriber
+> python3 -m venv venv
 
 After that activate venv by running
 ## Linux/macOS:
